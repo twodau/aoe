@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoe3", "Aoe3\Aoe3.csproj", "{5629A910-D569-4509-BE15-BB4CC2FF9C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5629A910-D569-4509-BE15-BB4CC2FF9C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5629A910-D569-4509-BE15-BB4CC2FF9C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5629A910-D569-4509-BE15-BB4CC2FF9C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5629A910-D569-4509-BE15-BB4CC2FF9C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BEAD225-B592-49E1-99AB-466C8B66D7B2}
+	EndGlobalSection
+EndGlobal
